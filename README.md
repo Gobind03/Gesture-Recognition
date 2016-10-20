@@ -1,3 +1,3 @@
 # Gesture Recognition
 
-C++ based OpenCV, american Sign language interpretor
+C++ and Python based OpenCV, Object Recognition and Tracking System
